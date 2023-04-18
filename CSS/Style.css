@@ -1,0 +1,31 @@
+
+div#header{
+    color:darkgray;
+}
+
+div#image{
+    text-align: center;
+}
+
+h2, h1{
+    text-align: center;
+}
+
+body {
+    text-align:left;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: Verdana, sans-serif;
+    color:#5A5A5A;
+  }
+
+h3{
+    text-align: center;
+    background-color: rgb(230, 230, 230);
+}
+
+a{
+    color:grey;
+    text-decoration;
+}
